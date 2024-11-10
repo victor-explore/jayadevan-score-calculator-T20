@@ -1,0 +1,35 @@
+<!DOCTYPE html> <!-- Declares the document type as HTML5 -->
+<html lang="en"> <!-- Root HTML element with English language -->
+<head> <!-- Contains metadata and document information -->
+    <meta charset="UTF-8"> <!-- Specifies UTF-8 character encoding -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Responsive viewport settings -->
+    <title>Jayadevan Score Calculator</title> <!-- Page title shown in browser tab -->
+    <link rel="stylesheet" href="styles.css"> <!-- Links to external CSS stylesheet -->
+</head>
+<body> <!-- Contains the visible page content -->
+    <div class="calculator"> <!-- Main calculator container -->
+        <h1>Jayadevan Score Calculator for T20 Cricket</h1> <!-- Main heading -->
+        <h4 style="text-align: center;">The interruption is after team-1 has completed its innings and before team-2 begins its innings</h4> <!-- Description of Case-A scenario -->
+        
+        <div class="section team1"> <!-- Section for Team 1 input -->
+            <h2>Team 1</h2> <!-- Team 1 heading -->
+            <label for="team1-score">Team 1 score:</label> <!-- Label for Team 1 score input -->
+            <input type="number" id="team1-score" placeholder="Enter team 1 score"> <!-- Input field for Team 1 score -->
+        </div>
+        
+        <div class="section team2"> <!-- Section for Team 2 input -->
+            <h2>Team 2</h2> <!-- Team 2 heading -->
+            <label for="Overs remaining after interruption">Overs remaining after interruption:</label> <!-- Label for remaining overs input -->
+            <input type="number" id="overs-remaining-after-interruption" placeholder="Enter overs remaining after interruption"> <!-- Input field for remaining overs -->
+        </div>
+        
+        <div class="section updated-target"> <!-- Section for displaying updated target -->
+            <h2>Updated Target</h2> <!-- Updated target heading -->
+            <label for="updated-target">Updated target score:</label> <!-- Label for updated target display -->
+            <input type="number" id="updated-target" placeholder="Updated target will appear here" readonly> <!-- Read-only field to display calculated target -->
+        </div>
+    </div>
+
+    <script src="caseA.js"></script> <!-- Links to external JavaScript file -->
+</body>
+</html>
