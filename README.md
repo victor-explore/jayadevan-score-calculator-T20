@@ -1,5 +1,6 @@
 # Jayadevan method for T20
 
+
 ## Introduction
 Cricket is one of the most popular sports in the world. The International Cricket Council (ICC) has 108 member nations, including 12 full members and 96 associate members. The global popularity of cricket is reflected in its infrastructure, with approximately 500 international cricket stadiums worldwide. However, only about 15-20 of these stadiums are equipped with retractable roofs or comprehensive rain protection systems.
 
