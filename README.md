@@ -136,7 +136,7 @@ We have hosted the web app using GitHub pages which is a free service provided b
 
 The user journey of the web app is as follows:
 <div style="text-align: center;">
-    <img src="8.PNG" alt="Image Description" width="800" height="auto"/>
+    <img src="8.png" alt="Image Description" width="800" height="auto"/>
 </div>
 
 The link to the web app is: https://victor-explore.github.io/jayadevan-score-calculator-T20/
