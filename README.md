@@ -30,7 +30,7 @@ To analyze the normal distribution of runs in T20 matches, we first calculated t
 
 We plotted the cumulative percentage of overs completed against the cumulative percentage of total runs scored and compared it to the Jayadevan's original 50-over curve.
 <div style="text-align: center;">
-    <img src="1.png" alt="Image Description" width="800" height="auto"/>
+    <img src="1.PNG" alt="Image Description" width="800" height="auto"/>
 </div>
 
 The graph shows key differences between T20 and 50-over cricket scoring patterns:
@@ -68,7 +68,7 @@ To create a target adjustment curve, we sorted overs by their average run-scorin
 We plotted the cumulative percentage of overs completed against the cumulative percentage of total runs scored and compared it to the Jayadevan's original 50-over curve, which was developed for One Day International (ODI) matches.
 
 <div style="text-align: center;">
-    <img src="2.png" alt="Image Description" width="800" height="auto"/>
+    <img src="2.PNG" alt="Image Description" width="800" height="auto"/>
 </div>
 
 The graph shows two key differences between T20 and ODI target score distributions:
@@ -119,13 +119,13 @@ The final target table for T20 matches is attached in the appendix.
 We forwarded the final target table to V. Jayadevan for his feedback
 
 <div style="text-align: center;">
-    <img src="5.png" alt="Image Description" width="800" height="auto"/>
+    <img src="5.PNG" alt="Image Description" width="800" height="auto"/>
 </div>
 
 V. Jayadevan reply was as follows:
 
 <div style="text-align: center;">
-    <img src="7.png" alt="Image Description" width="800" height="auto"/>
+    <img src="7.PNG" alt="Image Description" width="800" height="auto"/>
 </div>
 
 ### Development of web app
@@ -136,7 +136,7 @@ We have hosted the web app using GitHub pages which is a free service provided b
 
 The user journey of the web app is as follows:
 <div style="text-align: center;">
-    <img src="8.png" alt="Image Description" width="800" height="auto"/>
+    <img src="8.PNG" alt="Image Description" width="800" height="auto"/>
 </div>
 
 The link to the web app is: https://victor-explore.github.io/jayadevan-score-calculator-T20/
