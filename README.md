@@ -1,14 +1,4 @@
-# Jayadevan method
-- Project title - Jayadevan method
-- Team name - Cricket curve crusaders
-- Team number - 9
-- Team members:
-   1. Arnab
-   2. Avinash Barak (23691)
-   3. Krishanu Kumar Saha (23913) 
-   4. Aditya Vijay Panwar (23027)
-   5. Ayush Jha (23657)
-   6. Aditi Pandey
+# Jayadevan method for T20
 
 ## Introduction
 Cricket is one of the most popular sports in the world. The International Cricket Council (ICC) has 108 member nations, including 12 full members and 96 associate members. The global popularity of cricket is reflected in its infrastructure, with approximately 500 international cricket stadiums worldwide. However, only about 15-20 of these stadiums are equipped with retractable roofs or comprehensive rain protection systems.
